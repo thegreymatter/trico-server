@@ -1,0 +1,4 @@
+.vs/**
+TricoServer/obj/**
+TricoServer/bin/**
+TricoServer/TricoServer.csproj.user
