@@ -19,7 +19,7 @@ namespace TricoServer.Domain
                 Address = "Hertzel 124, Tel Aviv",
                 Position = new Location(32.4,23.2),
                 Host = new User(){Name = "Smithy Smith"},
-                ImageUrl = "http://www.google.com",
+                ImageUrl = "http://cdn.home-designing.com/wp-content/uploads/2016/04/luxury-art-deco-apartment-interior.jpg",
                 Schedule = new Schedule(){Monday = true},
                 Properties = new List<string>(){"Wifi","Hot-Tub"},
                 Price = 32.0M
@@ -32,7 +32,7 @@ namespace TricoServer.Domain
                 Address = "Hertzel 100, Tel Aviv",
                 Position = new Location(32.4,23.2),
                 Host = new User(){Name = "JessicaRabbit"},
-                ImageUrl = "http://www.google.com",
+                ImageUrl = "http://www.goblenstudio.com/wp-content/uploads/2014/08/luxury-apartment-02.jpg",
                 Schedule = new Schedule(){Sunday = true},
                 Properties = new List<string>(){"Wifi"},
                 Price = 32.0M
